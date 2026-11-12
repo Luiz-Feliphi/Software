@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ola mundo
 
 como estão todos vocês  :3
+=======
+ola mundo
+>>>>>>> cb0a0d4 (First Commit)
 =======
 ola mundo
 >>>>>>> cb0a0d4 (First Commit)
